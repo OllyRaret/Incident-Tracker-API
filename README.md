@@ -112,15 +112,6 @@ python manage.py runserver
 - `partner` - Партнер
 - `system` - Система
 
-## Инструкции по запуску
-Выполните команды:
-
-```bash
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-```
-
 ## Админка
 
 Доступна по адресу: http://127.0.0.1:8000/admin/
